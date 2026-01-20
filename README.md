@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Szymon</h1>
-<h3 align="center">A passionate problem solver, exploring computationally heavy challenges and tricky algorithms. Loves testing strategies in board and video games.</h3>
+<h3 align="center">A passionate problem solver, tackling computationally intensive challenges and complex algorithms. Enjoys approaching games using algorithms to refine strategies.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
