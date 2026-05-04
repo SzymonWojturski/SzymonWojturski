@@ -11,7 +11,7 @@ Enjoys approaching games using algorithms to refine strategies.
 
 ## About me
 
-I'm a developer with a strong interest in algorithms, combinatorial optimization, and systems that need to run fast. I like working close to the problem — whether that's designing a solver, tuning a search heuristic, or figuring out why something is slower than it should be.
+I'm a developer with a strong interest in algorithms, combinatorial optimization, and systems that need to run fast. Currently looking for opportunities in **backend**, **fullstack**, or **AI-related** roles.
 
 ---
 
